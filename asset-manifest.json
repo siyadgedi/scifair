@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/scifair/static/css/main.a617e044.chunk.css",
+    "main.js": "/scifair/static/js/main.27a9dc4f.chunk.js",
+    "main.js.map": "/scifair/static/js/main.27a9dc4f.chunk.js.map",
+    "runtime-main.js": "/scifair/static/js/runtime-main.374aa948.js",
+    "runtime-main.js.map": "/scifair/static/js/runtime-main.374aa948.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/scifair/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.903e9412.chunk.js": "/scifair/static/js/2.903e9412.chunk.js",
+    "static/js/2.903e9412.chunk.js.map": "/scifair/static/js/2.903e9412.chunk.js.map",
+    "static/js/3.ffead149.chunk.js": "/scifair/static/js/3.ffead149.chunk.js",
+    "static/js/3.ffead149.chunk.js.map": "/scifair/static/js/3.ffead149.chunk.js.map",
+    "index.html": "/scifair/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/scifair/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/scifair/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.903e9412.chunk.js.LICENSE.txt": "/scifair/static/js/2.903e9412.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/scifair/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.374aa948.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.903e9412.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.27a9dc4f.chunk.js"
+  ]
+}
