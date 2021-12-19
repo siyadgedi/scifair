@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/scifair/static/css/main.a617e044.chunk.css",
-    "main.js": "/scifair/static/js/main.a45eec1c.chunk.js",
-    "main.js.map": "/scifair/static/js/main.a45eec1c.chunk.js.map",
+    "main.js": "/scifair/static/js/main.d94e9fd3.chunk.js",
+    "main.js.map": "/scifair/static/js/main.d94e9fd3.chunk.js.map",
     "runtime-main.js": "/scifair/static/js/runtime-main.374aa948.js",
     "runtime-main.js.map": "/scifair/static/js/runtime-main.374aa948.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/scifair/static/css/2.8c0e6b67.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.8c0e6b67.chunk.css",
     "static/js/2.903e9412.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.a45eec1c.chunk.js"
+    "static/js/main.d94e9fd3.chunk.js"
   ]
 }
